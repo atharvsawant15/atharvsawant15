@@ -43,8 +43,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=atharvsawant15&theme=radical&hide_border=false" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvsawant15&theme=dracula&margin-w=10&row=1&column=7"/>
-  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=atharvsawant15&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
 
