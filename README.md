@@ -38,17 +38,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvsawant15&theme=radical&hide_border=false" />
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=atharvsawant15&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
